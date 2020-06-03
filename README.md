@@ -1,4 +1,4 @@
-# Czysty motyw wordpress
+# Czysty motyw WordPress'a
 
 
 ### Wdrożenie: FASTSITE
